@@ -1,15 +1,15 @@
 
 .nav .nav-link:hover{
-    color:rgb(102, 161, 248);
+    color:rgb(168, 255, 118);
     text-decoration:solid;
 }
 .nav-link{
-    color:white;
-    /* text-decoration: underline; */
-
+    color:#73a339;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .container-fluid{
-    background-color:#17202A;
+    background-color:black;
 }
 
 .color img{
@@ -48,3 +48,23 @@
         transform: scale(1.2);
         transition: 1s ease;
         }
+        .name{
+            color:#73a339;
+            font-family:'Times New Roman', Times, serif ;
+        }
+.about{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.col-md-4{
+    color:#73a339;
+}
+.contact{
+    color:#73a339;
+}
+.line{
+    width: 40%;
+    background: #73a339;
+}
+
